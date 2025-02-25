@@ -44,4 +44,3 @@ if __name__ == "__main__":
     for _ in range(total_count):
         print_lift_ticket()
     print('')
-    
